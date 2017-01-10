@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<FullPalette xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mainBGs>NTUPDw==</mainBGs>
+  <palettes>
+    <base64Binary>Jhw2OhwPMBwPOTA3IzAnDzoqHA8=</base64Binary>
+    <base64Binary>PCwPMDsPMDsPLDAlFTAlDzAlLA8=</base64Binary>
+    <base64Binary>PCwMMCUTMCEcLDAcFTAlDCUVLBw=</base64Binary>
+    <base64Binary>MDkcMDkcMCUcLDAcFTAlADA5LAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+  </palettes>
+  <mario>FjAP</mario>
+  <luigi>GjAP</luigi>
+  <koopa>LDAl</koopa>
+  <fire>LDAW</fire>
+  <animation>Ojo6KhoA</animation>
+</FullPalette>
