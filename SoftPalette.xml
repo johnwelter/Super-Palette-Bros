@@ -10,10 +10,17 @@
     <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
     <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
     <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
+    <base64Binary>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</base64Binary>
   </palettes>
   <mario>FjAP</mario>
   <luigi>GjAP</luigi>
   <koopa>LDAl</koopa>
   <fire>LDAW</fire>
   <animation>Ojo6KhoA</animation>
+  <silverPipeOverDay>MAAQ</silverPipeOverDay>
+  <silverPipeOverNight>MAAQ</silverPipeOverNight>
+  <orangePipe>JxYP</orangePipe>
 </FullPalette>

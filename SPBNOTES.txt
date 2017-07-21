@@ -1,0 +1,31 @@
+super pallete bros (palette?)
+
+needs: level type selector (over, under, sea, castle)
+
+Level dependant:
+
+first 3 bg slots
+last 3 sprite slots
+
+level independent:
+
+coins / ? blocks
+mario
+luigi
+fire mario / luigi
+bowser
+
+
+flow:
+
+select color to change
+select new color from full NES pallete
+
+sections:
+
+main BG color
+level dependant rows 3 per row, 6 rows
+
+level independant colors to the side
+
+

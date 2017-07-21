@@ -1,0 +1,115 @@
+Super Mario Bros. Pallete Data (rep)
+
+Sea BG
+
+$0CB7 0F 15 12 25 - coral
+$0CBB 0F 3A 1A 0F - blocks
+$0CBF 0F 30 12 0F - ocean
+$0CC3 0F 27 12 0F - coins
+
+$0CC7 22 16 27 18 - mario
+$0CCB 0F 10 30 27 - green cheep
+$0CCF 0F 16 30 27 - red cheep
+$0CD3 0F 0F 30 10 - blooper
+
+
+Over World BG (first slots are replaced with 22 in game)
+
+$0CDB 0F 3C 2C 0F - Pipes
+$0CDF 0F 30 3B 0F - Blocks
+$0CE3 0F 30 3B 0F - Sky
+$0CE7 0F 3A 2C 0F - ?block (The actual pallete for color 1 is elsewhere)
+
+
+Over World SP
+
+$0CEB 0F 16 30 0F - Mario
+$0CEF 0F 2C 30 25 - Green Koopa/Lakitu/1up
+$0CF3 0F 15 30 25 - Red Koopa/Spiny/shroom
+$0CF7 0F 0F 30 25 - Goomba
+
+Pallete set up
+
+$0CFB 00 3F 00 20 (00 - blue sky, 3F00 - pallete start, 20 - 16 pallete slots)
+
+UnderGround BG
+
+$0CFF 0F 3C 2C 0C - Pipes
+$0D03 0F 30 25 13 - Blocks
+$0D07 0F 30 21 1C - Sky
+$0D0B 0F 3A 2C 1C - ? Block
+
+UnderGround SP (note - all first sprite slots are 00 in game)
+
+$0D0F 0F 16 30 0F - Mario
+$0D13 0F 2C 30 1C - plant/koopa
+$0D17 0F 15 30 25 - platform
+$0D1B 0F 0C 25 15 - goomba
+
+Pallete set up
+
+$0D1F 00 3F 00 20 
+
+Koopa Castle BG
+
+$0D23 0F 30 39 1C - Pipes
+$0D27 0F 30 39 1C - Blocks
+$0D2B 0F 30 25 1C - lava
+$0D2F 0F 3A 2C 00 - ? Block
+
+Koopa Castle SP
+
+$0D33 0F 16 30 0F - Mario
+$0D37 0F 2C 30 1C - Koopas
+$0D3B 0F 15 30 25 - Podobo
+$0D3F 0F 00 30 39 - goomba
+
+
+Not sure about these next parts, but they may be bg slot replacemnts.
+
+
+$0D43 00 3F 00 04 - probably BG slot
+$0D47 22 30 00 10
+
+$0D4B 00 3F 00 04 - no clue but probably BG slot
+$0D4F 0F 30 00 10 
+
+$0D53 00 3F 00 04 - some kinda place
+$0D57 22 27 16 0F 
+
+$0D5B 00 3F 14 04 -koopa replacement
+$0D5F 0F 2C 30 25
+
+
+
+block animation
+
+$09D3 3A 3A 3A 2A 1A 2A
+$09E1 0F 07 12 0F - underwater 
+$09E5 0F 07 2C 0F - overworld
+$09E9 0F 07 2C 1C - underworld
+$09ED 0F 07 2C 00 - castle
+
+
+
+replacements for mario + bg?
+
+
+$05DF 22 35 0F 0F 0F 22 0F 0F (first 4- sea, over, under, castle) maybe some for in betweens?
+$05E7 35 16 30 0F - mario
+$05EB 35 30 27 19 - luigi
+$05EF 35 2C 30 16 -fire
+
+
+
+
+
+
+
+
+
+
+
+
+
+

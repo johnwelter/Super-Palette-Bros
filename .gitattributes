@@ -15,3 +15,10 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+#files to ignore
+
+Mario_pallete_original.txt export-ignore
+Mario_pallete_replacement.txt export-ignore
+SPBNOTES.txt export-ignore
+ZeldaPaletteNotes.txt export-ignore

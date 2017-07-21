@@ -1,0 +1,124 @@
+Super Mario Bros. Pallete Data
+
+
+
+$05DF 22 22 0F 0F 0F 22 0F 0F (first 4- sea, over, under, castle)
+$05E8 22 16 27 18 -mario 
+$05EB 22 30 27 19 -luigi 
+$05EF 22 37 27 16 -fire
+
+
+block animation
+
+$09D3 27 27 27 17 07 17
+$09E1 0F 07 12 0F - underwater coin
+$09E5 0F 07 17 0F - overworld
+$09E9 0F 07 17 1C - underworld
+$09ED 0F 07 17 00 - castle
+
+
+
+Sea BG
+
+$0CB7 0F 15 12 25 - coral (needs changing)
+$0CBB 0F 3A 1A 0F - blocks (NC)
+$0CBF 0F 30 12 0F - ocean (NC)
+$0CC3 0F 27 12 0F - coins (NC)
+
+$0CC7 22 16 27 18 - mario (needs changing)
+$0CCB 0F 10 30 27 - green cheep (needs changing)
+$0CCF 0F 16 30 27 - red cheep 
+$0CD3 0F 0F 30 10 - blooper (needs changing)
+
+skip 4
+
+Over World BG (first slots are replaced with 22 in game)
+
+$0CDB 0F 29 1A 0F - Pipes
+$0CDF 0F 36 17 0F - Blocks
+$0CE3 0F 30 21 0F - Sky
+$0CE7 0F 27 17 0F - ?block (The actual pallete for color 1 is elsewhere)
+
+
+Over World SP
+
+$0CEB 0F 16 27 18 - Mario
+$0CEF 0F 1A 30 27 - Green Koopa/Lakitu/1up
+$0CF3 0F 16 30 27 - Red Koopa/Spiny/shroom
+$0CF7 0F 0F 36 17 - Goomba
+
+Pallete set up
+
+$0CFB 00 3F 00 20 (00 - blue sky, 3F00 - pallete start, 20 - 16 pallete slots)
+
+UnderGround BG
+
+$0CFF 0F 29 1A 09 - Pipes
+$0D03 0F 3C 1C 0F - Blocks
+$0D07 0F 30 21 1C - Sky
+$0D0B 0F 27 17 1C - ? Block
+
+UnderGround SP (note - all first sprite slots are 00 in game)
+
+$0D0F 0F 16 27 18 - Mario
+$0D13 0F 1C 36 17 - plant/koopa
+$0D17 0F 16 30 27 - platform
+$0D1B 0F 0C 3C 1C - goomba
+
+Pallete set up
+
+$0D1F 00 3F 00 20 
+
+Koopa Castle BG
+
+$0D23 0F 30 10 00 - Pipes
+$0D27 0F 30 10 00 - Blocks
+$0D2B 0F 30 16 00 - lava
+$0D2F 0F 27 17 00 - ? Block
+
+Koopa Castle SP
+
+$0D33 0F 16 27 18 - Mario
+$0D37 0F 1C 36 17 - Koopas
+$0D3B 0F 16 30 27 - Podobo
+$0D3F 0F 00 30 10 - goomba
+
+
+Not sure about these next parts, but they may be bg slot replacemnts.
+
+
+$0D43 00 3F 00 04 - setup data
+$0D47 22 30 00 10   silver pipe for overworld normal
+
+$0D4B 00 3F 00 04 - no clue but probably BG slot
+$0D4F 0F 30 00 10   silver pipe for overworld night
+
+$0D53 00 3F 00 04 - some kinda place
+$0D57 22 27 16 0F   orange pipe
+
+$0D5B 00 3F 14 04 -koopa replacement
+$0D5F 0F 1A 30 27
+
+
+
+
+
+replacements for mario + bg?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
